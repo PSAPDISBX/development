@@ -2,6 +2,5 @@
 
 This is the development of Graph 2 done by Dev 2.
 
-There are some enhancement carried out by dev 1.
+Enhancement Done by Dev 1 for Graph 2.
 
-Some more enhancement by dev 1.
